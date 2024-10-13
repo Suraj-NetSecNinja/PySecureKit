@@ -1,41 +1,51 @@
-# 👋 Hello, I'm Suraj Srikanth
+# 👋 Hi there! I'm Suraj Srikanth
+
 <a href="https://www.linkedin.com/in/suraj509/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently pursuing a Master's in Cybersecurity from Yeshiva University, with a keen interest in **Penetration Testing**. I’m passionate about identifying vulnerabilities in systems and applications, and I'm eager to enhance my hands-on skills in this area.
+Welcome to my GitHub profile! I'm currently pursuing a Master's in Cybersecurity at Yeshiva University. I have a passion for **Penetration Testing** and love exploring the intricate world of security vulnerabilities. My mission? To outsmart the hackers and help make the digital world a safer place! 🚀
 
-> "Security is not a product, but a process." – Bruce Schneier
+## 🧩 My Journey
+From my early days in computer science, I discovered a fascination for understanding how systems work and how they can be exploited. This curiosity led me to cybersecurity, where I dive deep into penetration testing, always eager to learn and grow my skills.
 
-## 🎯 Objective
-To leverage my background in network engineering and cybersecurity frameworks while developing my expertise in **Penetration Testing**.
+## 🔍 Skills and Tools
+Here’s what I bring to the table:
 
-## 🔍 Skills
-- **Computer Networks**: Cisco Routers, Switches, LAN/WAN, VLAN, TCP/IP, ACL, Subnetting, DNS, DHCP, Encryption, NAT, Rapid-STP, VPN, Network Security, Routing Protocols (RIP, EIGRP, OSPF), Network Troubleshooting & Maintenance
-- **Security Frameworks and Incident Response**: NIST, ISO, CIS, MTTD, MTTA, MTTR, Cryptography, Hashing
-- **Tools**: Splunk, Antivirus, Firewall, SIEM, EDR, Wireshark, Nmap, Netcat, Tcpdump, Active Directory
-- **Programming Languages**: Python (Proficient), SQL, C Programming
-- **Amazon Web Services (AWS)**: Cloud Architecture, Cost Management, EC2, S3, IAM, VPC, CloudTrail, ELB
-- **Operating Systems**: Kali Linux, Red Hat Linux, Ubuntu, Windows
+- **Networking Wizardry**: 
+  - Cisco Routers, Switches, LAN/WAN, VLAN, TCP/IP, Subnetting
+- **Security Frameworks**: 
+  - NIST, ISO, CIS, Incident Response
+- **Programming Proficiency**: 
+  - Python, SQL, C Programming
+- **Cloud Knowledge**: 
+  - AWS Services like EC2, S3, IAM
+- **Hands-On Tools**: 
+  - Splunk, Wireshark, Nmap, Tcpdump
 
 ## 🏆 Certifications
-<div>
-    <img src="https://img.shields.io/badge/-CCNA-1572B6?&style=for-the-badge&logo=Cisco&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Google_IT_Support_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" />
-</div>
+- CCNA
+- Google Cybersecurity Professional Certificate
+- Google IT Support Professional Certificate
+- AWS Cloud Practitioner
 
-## 🚀 Projects
-- **Proactive Risk Management Strategies**: Assessed and mitigated security risks using the NIST framework, presenting findings at the Katz Research Symposium.
-- **CrackSploit Challenge**: Developed an interactive cybersecurity challenge involving cryptography and IDOR vulnerabilities to enhance awareness about web security.
-- **Online Canteen Ordering System**: Led the development of a web-based ordering system, improving efficiency and reducing queue times by 30%.
+## 🚀 My Projects
+Here are a few of the projects I'm proud of:
+
+- **Proactive Risk Management Strategies**: I assessed security risks for Waypoint Cafe NYC, identifying vulnerabilities and proposing solutions. My findings were presented at the Katz Research Symposium. 🎤
+  
+- **CrackSploit Challenge**: Developed an interactive challenge to test cryptography skills, encouraging users to find and fix security flaws while having fun! 🔍
+
+- **Online Canteen Ordering System**: Led a team to create a web-based ordering system, which significantly improved efficiency and reduced wait times by 30%. 🍔
 
 ## 🌟 Interests
-- Penetration Testing
-- Vulnerability Assessment
-- Cybersecurity Awareness
-- Open Source Contributions
-- Continuous Learning in Cybersecurity
+When I'm not busy with cybersecurity, you can find me:
+- Exploring the latest trends in tech and cybersecurity
+- Participating in Capture The Flag (CTF) competitions
+- Engaging with the open-source community
+- Sharing knowledge and learning from fellow enthusiasts
 
 ## 📫 Let's Connect!
-Feel free to reach out to me on LinkedIn or explore my projects on GitHub. I'm always excited to connect with like-minded individuals and collaborate on cybersecurity initiatives!
+I love connecting with fellow cybersecurity enthusiasts and professionals. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/suraj509/) or check out my projects here on GitHub. Let’s collaborate and make a difference together! 🤝
 
+---
+
+Thanks for stopping by! Stay curious, stay secure! 🔐

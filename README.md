@@ -16,13 +16,13 @@ To leverage my background in network engineering, cybersecurity frameworks, and 
 
 ## Certifications
 <div>
-<img src="https://img.shields.io/badge/-CCNA-1572B6?&style=for-the-badge&logo=Cisco&logoColor=white" />
-<img src="https://img.shields.io/badge/-Google_Cybersecurity_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-<img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" />
+    <img src="https://img.shields.io/badge/-CCNA-1572B6?&style=for-the-badge&logo=Cisco&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Google_IT_Support_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" />
 </div>
 
 ## Projects
 - **Proactive Risk Management Strategies**: Assessed and mitigated security risks using the NIST framework.
 - **CrackSploit Challenge**: Developed a cybersecurity challenge involving cryptography and IDOR vulnerabilities.
-- **SOC Automation Project**: Created workflows using SOAR tools for security automation.
-
+- **Online Canteen Ordering System**: Developed a web-based ordering system, improving efficiency and reducing queue times by 30%.

@@ -22,28 +22,12 @@ Here’s what I bring to the table:
   - Splunk, Wireshark, Nmap, Tcpdump
 
 ## 🏆 Certifications
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-
-    <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 150px; text-align: center;">
-        <img src="https://img.shields.io/badge/-CCNA-1572B6?&style=for-the-badge&logo=Cisco&logoColor=white" />
-        <p>CCNA</p>
-    </div>
-    
-    <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 150px; text-align: center;">
-        <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-        <p>Google Cybersecurity<br>Professional Certificate</p>
-    </div>
-    
-    <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 150px; text-align: center;">
-        <img src="https://img.shields.io/badge/-Google_IT_Support_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
-        <p>Google IT Support<br>Professional Certificate</p>
-    </div>
-    
-    <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 150px; text-align: center;">
-        <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" />
-        <p>AWS Cloud<br>Practitioner</p>
-    </div>
-</div>
+| Certification                                     | Badge                                                                                          |
+|--------------------------------------------------|------------------------------------------------------------------------------------------------|
+| CCNA                                             | ![CCNA](https://img.shields.io/badge/-CCNA-1572B6?&style=for-the-badge&logo=Cisco&logoColor=white)    |
+| Google Cybersecurity Professional Certificate     | ![Google Cybersecurity](https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white) |
+| Google IT Support Professional Certificate        | ![Google IT Support](https://img.shields.io/badge/-Google_IT_Support_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white) |
+| AWS Cloud Practitioner                            | ![AWS Cloud Practitioner](https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white)         |
 
 ## 🚀 My Projects
 Here are a few of the projects I'm proud of:

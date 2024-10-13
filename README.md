@@ -22,19 +22,37 @@ Here’s what I bring to the table:
   - Splunk, Wireshark, Nmap, Tcpdump
 
 ## 🏆 Certifications
-- CCNA
-- Google Cybersecurity Professional Certificate
-- Google IT Support Professional Certificate
-- AWS Cloud Practitioner
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+
+    <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 150px; text-align: center;">
+        <img src="https://img.shields.io/badge/-CCNA-1572B6?&style=for-the-badge&logo=Cisco&logoColor=white" />
+        <p>CCNA</p>
+    </div>
+    
+    <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 150px; text-align: center;">
+        <img src="https://img.shields.io/badge/-Google_Cybersecurity_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+        <p>Google Cybersecurity<br>Professional Certificate</p>
+    </div>
+    
+    <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 150px; text-align: center;">
+        <img src="https://img.shields.io/badge/-Google_IT_Support_Professional_Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+        <p>Google IT Support<br>Professional Certificate</p>
+    </div>
+    
+    <div style="border: 1px solid #ccc; border-radius: 8px; padding: 10px; width: 150px; text-align: center;">
+        <img src="https://img.shields.io/badge/-AWS_Cloud_Practitioner-FF9900?&style=for-the-badge&logo=Amazon&logoColor=white" />
+        <p>AWS Cloud<br>Practitioner</p>
+    </div>
+</div>
 
 ## 🚀 My Projects
 Here are a few of the projects I'm proud of:
 
-- **Proactive Risk Management Strategies**: I assessed security risks for Waypoint Cafe NYC, identifying vulnerabilities and proposing solutions. My findings were presented at the Katz Research Symposium. 🎤
+- **Proactive Risk Management Strategies**: Assessed and mitigated security risks using the NIST framework, presenting findings at the Katz Research Symposium. 🎤
   
 - **CrackSploit Challenge**: Developed an interactive challenge to test cryptography skills, encouraging users to find and fix security flaws while having fun! 🔍
 
-- **Online Canteen Ordering System**: Led a team to create a web-based ordering system, which significantly improved efficiency and reduced wait times by 30%. 🍔
+- **Online Canteen Ordering System**: Led the development of a web-based ordering system, which significantly improved efficiency and reduced wait times by 30%. 🍔
 
 ## 🌟 Interests
 When I'm not busy with cybersecurity, you can find me:

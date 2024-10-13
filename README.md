@@ -1,42 +1,18 @@
 # Hello, I'm Suraj Srikanth
-<a href="https://www.linkedin.com/in/surajsrikanth692/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/suraj509/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am currently pursuing a Master's in Cybersecurity from Yeshiva University, with a deep interest in cybersecurity, cloud infrastructure, and network engineering. My experience spans system engineering, network troubleshooting, and security frameworks. I’m dedicated to building secure, scalable solutions and looking to transition into a SOC as a Tier 1 Analyst.
+I am currently pursuing a Master's in Cybersecurity from Yeshiva University, with a deep interest in cybersecurity, cloud infrastructure, and network engineering. My focus is on **Application Security Testing and Engineering (ASTE)**, and I’m passionate about building secure, scalable solutions in this field.
 
 ## Objective
-To leverage my background in network engineering, cybersecurity frameworks, and cloud computing to secure a role as a SOC Analyst, where I can contribute to proactive threat detection and incident response.
+To leverage my background in network engineering, cybersecurity frameworks, and cloud computing while deepening my expertise in **Application Security Testing and Engineering**.
 
 ## Skills
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | [Proactive Risk Management Strategies](https://google.com) |
-| Network Traffic Monitoring and Attack Detection | [CrackSploit Challenge](https://google.com) |
-| Security Automation with SOAR                  | SOC Automation Project |
-| Incident Response Planning and Execution      | SOC Automation Project |
-| Scripting and Automation for Threat Mitigation | SOC Automation Project |
-
-## Tools
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-</div>
+- **Computer Networks**: Cisco Routers, Switches, LAN/WAN, VLAN, TCP/IP, ACL, Subnetting, DNS, DHCP, Encryption, NAT, Rapid-STP, VPN, Network Security, Routing Protocols (RIP, EIGRP, OSPF), Network Troubleshooting & Maintenance
+- **Security Frameworks and Incident Response**: NIST, ISO, CIS, MTTD, MTTA, MTTR, Cryptography, Hashing
+- **Tools**: Splunk, Antivirus, Firewall, SIEM, EDR, Wireshark, Nmap, Netcat, Tcpdump, Active Directory
+- **Programming Languages**: Python (Proficient), SQL, C Programming
+- **Amazon Web Services (AWS)**: Cloud Architecture, Cost Management, EC2, S3, IAM, VPC, CloudTrail, ELB
+- **Operating Systems**: Kali Linux, Red Hat Linux, Ubuntu, Windows
 
 ## Certifications
 <div>
@@ -46,6 +22,7 @@ To leverage my background in network engineering, cybersecurity frameworks, and 
 </div>
 
 ## Projects
-- [Proactive Risk Management Strategies](https://google.com): A project that assessed and mitigated security risks using the NIST framework.
-- [CrackSploit Challenge](https://google.com): Developed an interactive cybersecurity challenge involving cryptography and IDOR to raise awareness about web vulnerabilities.
-- SOC Automation Project: Created security automation workflows using SOAR tools to streamline incident response processes.
+- **Proactive Risk Management Strategies**: Assessed and mitigated security risks using the NIST framework.
+- **CrackSploit Challenge**: Developed a cybersecurity challenge involving cryptography and IDOR vulnerabilities.
+- **SOC Automation Project**: Created workflows using SOAR tools for security automation.
+
